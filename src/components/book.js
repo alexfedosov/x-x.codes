@@ -8,12 +8,13 @@ const MainContainer = styled.div`
 const Container = styled.div`
     display: flex;
     flex-direction: horizontal;
+    flex-wrap: wrap;
   `
 
 const Cover = styled.img`
     min-width: 150px;
     width: 150px;
-    margin-right: 24px;
+    margin: 0 24px 24px 0;
     align-self: flex-start;
     object-fit: contain;
   `
@@ -21,13 +22,15 @@ const Cover = styled.img`
 const BookDescription = styled.div`
     display: flex;
     flex-direction: column;
+    flex-basis: 400px;
+    flex-grow: 1;
   `
 
 const Links = styled.div`
     display: flex;
     flex-direction: row;
-    margin-top: 24px;
-    * { margin: 0 8px; };
+    margin-top: 12px;
+    * { margin-right: 12px; };
 `
 
 const Author = styled.span`
