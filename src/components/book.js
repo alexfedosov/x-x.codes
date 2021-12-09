@@ -34,10 +34,14 @@ const Author = styled.span`
   opacity: 0.4;
 `
 
+const Separator = styled.span`
+  opacity: 0.1;
+`
+
 const Book = ({ title, author, cover, description, links }) => {
   return (
     <MainContainer>
-      <h3>{title} <Author>| {author}</Author></h3>
+      <h3>{title} <Separator>|</Separator> <Author>{author}</Author></h3>
       <Container>
         <Cover src={cover} />
         <BookDescription>

@@ -36,6 +36,40 @@ const books = [
         url: "https://www.litres.ru/haruki-murakami/poslemrak/",
       },
     ]
+  },
+  {
+    title: "The Ocean at the End of the Lane",
+    author: "Neil Gaiman",
+    cover: "/book-covers/ocean-by-the-end-of-the-lane.jpeg",
+    description: `A middle-aged man returns to his childhood home to attend a funeral. 
+    Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. 
+    He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back.
+    And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.`,
+    links: [
+      {
+        resourceName: "Good Reads",
+        url: "https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane",
+      },
+      {
+        resourceName: "ЛитРес",
+        url: "https://www.litres.ru/nil-geyman/okean-v-konce-dorogi/",
+      },
+    ]
+  },
+  {
+    title: "[RU] Виват Император!",
+    author: "Роман Злотников",
+    cover: "/book-covers/roman-zlotnikov-vivat-imperator.jpeg",
+    description: `В конце девяностых на политической арене России появляется молодой и амбициозный персонаж: Дмитрий Ярославичев, глава «Фонда Рюрика» и, по слухам, прямой наследник рода Романовых. 
+    Его организация обладает неиссякаемыми финансовыми ресурсами, которые совершенно бескорыстно идут на развитие страны. 
+    Власти в замешательстве – что заставляет Ярославичева разбрасываться деньгами, откуда у юного главы фонда такое состояние? 
+    Неужели все, что он делает для соотечественников, можно объяснить мифической щедростью?..`,
+    links: [
+      {
+        resourceName: "ЛитРес",
+        url: "https://www.litres.ru/roman-zlotnikov/vivat-imperator/",
+      },
+    ]
   }
 ]
 
