@@ -13,6 +13,7 @@ const IndexPage = () => {
           not ordered by timestamp like a traditional blog. Anything more than your usual tweet and less than a
           full-sized blog post.
         </blockquote>
+        <p><a href="/books/list">Books</a></p>
         <p><a href="/ru/about">Обо мне</a></p>
       </main>
     </Layout>
