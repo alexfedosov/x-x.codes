@@ -5,7 +5,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <main>
-        <title>Home Page</title>
+        <title>x-x.codes home</title>
         <h1>Hey,</h1>
         <p>welcome to my little digital garden</p>
         <blockquote>
