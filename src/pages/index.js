@@ -14,6 +14,7 @@ const IndexPage = () => {
           full-sized blog post.
         </blockquote>
         <p><a href="/books">Books</a></p>
+        <p><a href="/wishlist">Wishlist</a></p>
         <p><a href="/ru/about">Обо мне</a></p>
       </main>
     </Layout>
