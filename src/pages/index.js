@@ -15,7 +15,7 @@ const IndexPage = () => {
         </blockquote>
         <p><a href="/books">Books</a></p>
         <p><a href="/wishlist">Wishlist</a></p>
-        <p><a href="/ru/about">Обо мне</a></p>
+        <p><a href="/ru/about">[RU] Обо мне</a></p>
       </main>
     </Layout>
   )
