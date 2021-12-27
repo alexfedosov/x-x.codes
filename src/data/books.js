@@ -1,5 +1,24 @@
 const books = [
   {
+    title: "A Man Called Ove",
+    author: "Fredrik Backman",
+    cover: "/book-covers/a-man-called-ove.jpg",
+    description: `
+    A grumpy yet loveable man finds his solitary world turned on its head when a boisterous young family moves in next door.
+
+    Meet Ove. He's a curmudgeon, the kind of man who points at people he dislikes as if they were burglars caught outside his bedroom window. He has staunch principles, strict routines, and a short fuse. People call him the bitter neighbor from hell, but must Ove be bitter just because he doesn't walk around with a smile plastered to his face all the time?`,
+    links: [
+      {
+        resourceName: "Good Reads",
+        url: "https://www.goodreads.com/book/show/18774964-a-man-called-ove",
+      },
+      {
+        resourceName: "ЛитРес",
+        url: "https://www.litres.ru/fredrik-bakman/vtoraya-zhizn-uve/",
+      },
+    ]
+  },
+  {
     title: "A Brief History of Time",
     author: "Stephen Hawking",
     cover: "/book-covers/a-brief-history-of-time.jpg",
