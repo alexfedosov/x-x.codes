@@ -17,6 +17,8 @@ const IndexPage = () => {
         <p><a href="/wishlist">Wishlist</a></p>
         <p><a href="/ru/about">[RU] Обо мне</a></p>
         <hr/>
+        <p><a href="https://calendly.com/ask_x_x/20min">Book a 20 minutes call with me</a></p>
+        <hr/>
         <p><a href="https://www.linkedin.com/in/alexanderfedosov/">LinkedIn</a></p>
         <p><a href="https://github.com/alexfedosov">Github</a></p>
         <p><a href="https://soundcloud.com/space_whales/popular-tracks">Soundcloud</a></p>
